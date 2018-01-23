@@ -12,6 +12,7 @@
 		04428980200730E600F80DB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0442897E200730E600F80DB5 /* Main.storyboard */; };
 		04428982200730E600F80DB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04428981200730E600F80DB5 /* Assets.xcassets */; };
 		04428985200730E600F80DB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04428983200730E600F80DB5 /* LaunchScreen.storyboard */; };
+		048591CD200C3FBE004E2CA7 /* CheckOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048591CC200C3FBE004E2CA7 /* CheckOutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		04428981200730E600F80DB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04428984200730E600F80DB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04428986200730E600F80DB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		048591CC200C3FBE004E2CA7 /* CheckOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckOutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0442897A200730E600F80DB5 /* AppDelegate.swift */,
 				0442897C200730E600F80DB5 /* ViewController.swift */,
 				0442897E200730E600F80DB5 /* Main.storyboard */,
+				048591CC200C3FBE004E2CA7 /* CheckOutViewController.swift */,
 				04428981200730E600F80DB5 /* Assets.xcassets */,
 				04428983200730E600F80DB5 /* LaunchScreen.storyboard */,
 				04428986200730E600F80DB5 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				048591CD200C3FBE004E2CA7 /* CheckOutViewController.swift in Sources */,
 				0442897D200730E600F80DB5 /* ViewController.swift in Sources */,
 				0442897B200730E600F80DB5 /* AppDelegate.swift in Sources */,
 			);
